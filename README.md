@@ -1,2 +1,4 @@
 # ATMCaseStudy
-From System Analysis and Design class
+From System Analysis and Design class.
+Group work from starter code.
+TODO: refactor code
